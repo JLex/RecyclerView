@@ -61,8 +61,10 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        /** Fuente:
-         * https://www.learn2crack.com/2016/02/android-recyclerview-and-cardview.html
+        /** Evento
+         *
+         *  Fuente:
+         *  https://www.learn2crack.com/2016/02/android-recyclerview-and-cardview.html
          */
 /*
        Para manejar los clicks en elemento de la lista RecyclerView
